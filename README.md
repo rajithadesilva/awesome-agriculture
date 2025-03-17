@@ -44,4 +44,4 @@ Contributions are welcome! Please follow the [contributing guidelines](#contribu
 
 ## Contributing_Guidelines
 
-A public list curated and maintained by [Rajitha de Silva](https://unsplash.com/@elifrancis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) for the benefit of agri-tech community.
+A public list curated and maintained by [Rajitha de Silva](https://rajithadesilva.github.io/) for the benefit of agri-tech community.
