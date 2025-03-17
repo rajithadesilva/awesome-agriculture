@@ -19,6 +19,8 @@ Contributions are welcome! Please follow the [contributing guidelines](#contribu
 * [Helios](https://github.com/PlantSimulationLab/Helios) – The Helios simulation system is a versatile modeling framework that handles tasks such as managing geometry and associated data structures through a C++ API.
 * [FIRA Hackathon 2025](https://github.com/FiraHackathon/hackathon2025_ws) – A Gazebo simulation environment of a real farm consisting of crop row fields, barns and slopes.
 * [Virtual Maize Field](https://github.com/FieldRobotEvent/virtual_maize_field) – This is a package to procedurally generate randomized fields with rows of plants for Gazebo.
+* [CPR-Gazebo](https://github.com/clearpathrobotics/cpr_gazebo) - This repository contains additional indoor and outdoor simulation environments for use with Clearpath's robot platforms.
+
 
 * [**Back to top**](#awesome-agriculture)
 
